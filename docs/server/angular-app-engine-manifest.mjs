@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/cron-angular',
+  basePath: '/wissen-technolgies-test-completed',
   supportedLocales: {
   "en-US": ""
 },
