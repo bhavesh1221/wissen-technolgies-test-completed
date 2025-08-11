@@ -1,0 +1,13 @@
+export default `<!doctype html>
+<html lang="en" data-beasties-container="">
+<head>
+  <meta charset="utf-8">
+  <title>Cron Evaluator</title>
+  <base href="/cron-angular/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}</style><link rel="stylesheet" href="styles-P2RSGMKF.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-P2RSGMKF.css"></noscript></head>
+<body ngcm="">
+  <app-root></app-root>
+<script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-ARVPLMSX.js" type="module"></script></body>
+</html>
+`;
